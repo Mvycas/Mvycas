@@ -1,3 +1,1 @@
-<img width="1834" alt="hello!" src="https://github.com/Mvycas/Mvycas/assets/62817753/d9e6e4b7-1253-4c7c-9ee9-b672ee0dea10">
-
-
+<img width="1834" alt="hello!" src="https://github.com/Mvycas/Mvycas/assets/62817753/f97a9dba-0b32-4d5b-b964-0c7b98bda43b">
